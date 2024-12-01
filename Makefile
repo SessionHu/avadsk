@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -o avadsk
+CFLAGS = -lpthread -o avadsk
 SOURCE = avadsk.c
 TARGET = avadsk
 
